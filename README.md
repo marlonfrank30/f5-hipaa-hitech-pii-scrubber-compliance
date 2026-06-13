@@ -1,4 +1,4 @@
-# f5-hipaa-hitech-pii-scrubber-compliance
+# f5-hipaa-hitech-phi-scrubber-compliance
 
 An F5 BIG-IP iRule that combines **TLS session secret logging** (for offline Wireshark decryption of `tcpdump` captures) with **in-flight PHI scrubbing** of all 18 HIPAA-defined Protected Health Information identifiers, as required by HIPAA (45 CFR §164.514) and the HITECH Act.
 
